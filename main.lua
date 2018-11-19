@@ -2,7 +2,7 @@
 print("Hello, World!")
 
 -- Make the background white.
-display.setDefault("background", 255, 255, 255)
+display.setDefault("background", 1, 1, 1)
 
 -- Create a rectangle on each side of the screen.
 local rectA = display.newRect(
